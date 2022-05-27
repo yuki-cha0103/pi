@@ -112,7 +112,7 @@ function end(){
 
 function pimenu(){
   textAlign(LEFT)
-  textAll("pi = "+pip[0] + "\n" + pip[1] + "\n" + pip[2] + "\n" + pip[3] + "\n" + pip[4] + "\n" + pip[5] + "\n" + pip[6] + "\n" + pip[7] + "\n" + pip[8] + "\n" + pip[9] + "\n" + pip[10] + "\n" + pip[11] + "\n" + pip[12] + "\n" + pip[13] + "\n" + pip[14] + "\n" + pip[15] + "\n" + pip[16] + "\n" + pip[17] + "\nクリックで戻る",20,0,30,30)
+  textAll("pi = "3." + "+pip[0] + "\n" + pip[1] + "\n" + pip[2] + "\n" + pip[3] + "\n" + pip[4] + "\n" + pip[5] + "\n" + pip[6] + "\n" + pip[7] + "\n" + pip[8] + "\n" + pip[9] + "\n" + pip[10] + "\n" + pip[11] + "\n" + pip[12] + "\n" + pip[13] + "\n" + pip[14] + "\n" + pip[15] + "\n" + pip[16] + "\n" + pip[17] + "\nクリックで戻る",20,0,30,30)
 }
 // ここは実装簡潔にするの諦めた
 
