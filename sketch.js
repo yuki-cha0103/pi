@@ -5,16 +5,16 @@ let inp = "3.";
 pp = 1;
 // 元からある関数's----------------------------------------------------------------------
 function preload(){
-  tpi = loadStrings("files/1000pi.txt")
-  mn = loadImage("files/menu.png")
-  gm = loadImage("files/game.png")
-  cr = loadImage("files/clear.png")
-  bgm = createAudio("files/gomib.mp3")
-  ses = loadSound("files/o.mp3")
-  sef = loadSound("files/x.mp3")
-  Rc = loadStrings("col.txt")
-  tyn = createAudio("files/tyan.mp3")
-  pip = loadStrings("ppp.txt")
+  tpi = loadStrings("https://yuki-cha0103.github.io/pi/files/1000pi.txt")
+  mn = loadImage("https://yuki-cha0103.github.io/pi/files/menu.png")
+  gm = loadImage("https://yuki-cha0103.github.io/pi/files/game.png")
+  cr = loadImage("https://yuki-cha0103.github.io/pi/files/clear.png")
+  bgm = createAudio("https://yuki-cha0103.github.io/pi/files/gomib.mp3")
+  ses = loadSound("https://yuki-cha0103.github.io/pi/files/o.mp3")
+  sef = loadSound("https://yuki-cha0103.github.io/pi/files/x.mp3")
+  Rc = loadStrings("https://yuki-cha0103.github.io/pi/col.txt")
+  tyn = createAudio("https://yuki-cha0103.github.io/pi/files/tyan.mp3")
+  pip = loadStrings("https://yuki-cha0103.github.io/pi/ppp.txt")
 }
 
 
